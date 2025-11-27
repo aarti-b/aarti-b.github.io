@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+
+<body>
+
+  <!-- NAVIGATION BAR -->
+  <nav class="navbar">
+    <a href="{{ '/' | relative_url }}">Home</a>
+    <a href="{{ '/research/' | relative_url }}">Research Blog</a>
+    <a href="{{ '/about/' | relative_url }}">About</a>
+  </nav>
+
+  <div class="content">
+    {{ content }}
+  </div>
+
+</body>
+</html>
