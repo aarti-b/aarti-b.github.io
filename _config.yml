@@ -1,5 +1,5 @@
-title: "Aarti's Research Space"
-description: "NeurIPS Analysis, AI Research Blog, Philosophy Notes, and More."
+title: "Fundamental Research Space"
+description: "Generative AI Research Blog"
 theme: jekyll-theme-cayman
 
 markdown: kramdown
@@ -11,7 +11,5 @@ nav:
     url: /
   - title: "Research Blog"
     url: /research/
-  - title: "Philosophy"
-    url: /philosophy/
   - title: "About"
     url: /about/
