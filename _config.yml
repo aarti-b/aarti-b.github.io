@@ -1,4 +1,17 @@
-title: "NeurIPS 2024 Acceptance & Rejection Analysis"
-description: "A meta-scientific study on topics, math complexity, novelty, and review patterns in NeurIPS papers."
+title: "Aarti's Research Space"
+description: "NeurIPS Analysis, AI Research Blog, Philosophy Notes, and More."
 theme: jekyll-theme-cayman
+
 markdown: kramdown
+permalink: pretty
+
+# Navigation links (top menu)
+nav:
+  - title: "Home"
+    url: /
+  - title: "Research Blog"
+    url: /research/
+  - title: "Philosophy"
+    url: /philosophy/
+  - title: "About"
+    url: /about/
